@@ -1,2 +1,2 @@
-# Java-UCU-labs
-Java labs from UCU
+# Java UCU
+Java labs from university
